@@ -5,9 +5,10 @@
    Tutorial 10
    Review Assignment
 
-   Author: 
+   Author: Michael Santos
    Date:   
 
 	
 */
-
+var thisDay =new Date("August 30, 2018");
+var tableHTML
